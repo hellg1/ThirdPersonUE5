@@ -12,9 +12,6 @@ class THIRDPERSON5_API ANewActor : public AActor
 	GENERATED_BODY()
 
 public:
-
-	UPROPERTY(EditAnywhere, EditAnywhere)
-	float Yoba;
 	// Sets default values for this actor's properties
 	ANewActor();
 

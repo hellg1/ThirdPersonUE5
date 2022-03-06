@@ -15,7 +15,7 @@ public:
 	// Sets default values for this actor's properties
 	AMyActor();
 
-	UPROPERTY(EditAnywhere, EditAnywhere)
+	UPROPERTY(EditAnywhere)
 	float Test = 100.f;
 	
 protected:
